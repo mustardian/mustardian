@@ -19,7 +19,7 @@
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/0mustardian) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-mishra-05b390216/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-mishra-05b390216/) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mustardian&icon=5&color=12)](https://visitcount.itsvg.in)
